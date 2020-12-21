@@ -1,4 +1,4 @@
-; 1 0
+11101 1001111
 -; First row is always input tape!!!!
 
 0 * * l add_left_stop
